@@ -1,2 +1,2 @@
 def foo(x,y):
-    return x+y
+    return x/y
